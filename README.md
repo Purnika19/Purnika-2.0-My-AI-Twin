@@ -213,7 +213,7 @@ Custom CSS is injected into Gradio to create a modern AI interface.
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 project-root
@@ -233,36 +233,7 @@ requirements.txt
 
 ---
 
-# ▶️ Running Locally
 
-Create a virtual environment:
-
-```bash
-python -m venv venv
-source venv/Scripts/activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Create `.env` and add your keys:
-
-```
-GROQ_API_KEY=your_groq_key
-GITHUB_USERNAME=your_username
-NTFY_TOPIC=your_topic
-```
-
-Run the application:
-
-```bash
-python app.py
-```
-
----
 
 #  Future Improvements
 
