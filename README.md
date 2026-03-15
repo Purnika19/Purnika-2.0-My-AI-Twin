@@ -70,7 +70,7 @@ This makes the AI Twin **continually improvable**.
 
 ---
 
-# 7. System Architecture
+#  System Architecture
 
 The AI Twin system is composed of several modular components.
 
