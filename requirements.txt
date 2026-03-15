@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-community
+langchain-core
+langchain-groq
+sentence-transformers
+faiss-cpu
+python-dotenv
+openai
+tiktoken
+gradio
+gTTS
+groq
+requests

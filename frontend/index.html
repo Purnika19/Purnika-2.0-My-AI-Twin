@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal AI Twin | Conversational Resume</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="chat-container glass-effect">
+        <header class="chat-header">
+            <div class="profile-pic">
+                <img src="https://ui-avatars.com/api/?name=AI&background=0D8ABC&color=fff&rounded=true" alt="AI Twin" />
+            </div>
+            <div class="header-info">
+                <h1>My Digital Twin</h1>
+                <p>Always online & ready to chat</p>
+            </div>
+        </header>
+
+        <main class="chat-window" id="chat-window">
+            <div class="message-bubble received fade-in">
+                <p>Hello! I'm an AI replica of my creator. You can ask me anything about their experience, projects, or background. How can I help you today?</p>
+            </div>
+        </main>
+        
+        <div class="typing-indicator" id="typing-indicator" style="display: none;">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <footer class="chat-input-area">
+            <form id="chat-form">
+                <input type="text" id="user-input" placeholder="Ask me about my projects, skills, or resume..." required autocomplete="off" />
+                <button type="submit" id="send-btn" aria-label="Send">
+                    <svg viewBox="0 0 24 24" fill="none" class="send-icon" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="22" y1="2" x2="11" y2="13"></line>
+                        <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                    </svg>
+                </button>
+            </form>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

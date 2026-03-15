@@ -1,0 +1,151 @@
+{
+  "name": "Purnika Malhotra",
+  "title": "Computer Engineering Student | ML/AI Enthusiast",
+
+  "summary": "Machine Learning enthusiast with hands-on experience building AI systems including RAG applications, computer vision models, and recommendation systems. Strong foundation in data structures, machine learning pipelines, and data-driven problem solving. Passionate about building intelligent systems that solve meaningful real-world problems.",
+
+  "portfolio": "https://portfolio-purnika.netlify.app/",
+  "github": "https://github.com/Purnika19",
+  "linkedin": "https://linkedin.com/in/purnika19",
+
+  "education": {
+    "degree": "B.E. in Computer Engineering",
+    "institution": "Thapar Institute of Engineering & Technology",
+    "location": "Patiala, India",
+    "duration": "2023 – 2027"
+  },
+
+"experience": [
+  {
+    "company": "Predis AI",
+    "role": "Backlink Intern",
+    "duration": "Mar 2025 – Present",
+    "location": "Remote",
+    "responsibilities": [
+      "Performed technical SEO audits and off-page backlink analysis across hundreds of webpages to improve domain authority and search visibility.",
+      "Executed link-building strategies including outreach, backlink tracking, and competitor backlink analysis.",
+      "Automated SEO data extraction and reporting workflows using Python, reducing manual analysis time.",
+      "Analyzed keyword performance, indexing issues, and search visibility metrics.",
+      "Collaborated with the ML team on basic data analysis and automation tasks related to content intelligence."
+    ]
+  }
+],
+
+  "projects": [
+    {
+      "name": "CareGPT",
+      "description": "RAG-based medical assistant built using LangChain, OpenAI embeddings, Pinecone vector database, and Flask APIs.",
+      "highlights": [
+        "Implemented OCR-based prescription ingestion pipeline converting medical images into structured text.",
+        "Designed embedding-based semantic retrieval using vector databases.",
+        "Built scalable Flask APIs for model inference."
+      ]
+    },
+    {
+      "name": "Schemely",
+      "description": "Recommendation system that suggests Indian government schemes based on user needs using structured datasets."
+    },
+    {
+      "name": "Mashup AI",
+      "description": "Python-based audio processing system generating mashups from multiple media inputs."
+    },
+    {
+      "name": "PlantPulse",
+      "description": "CNN-based plant disease detection system trained on 70,000+ images achieving around 97 percent accuracy."
+    },
+    {
+      "name": "TOPSIS Python Package",
+      "description": "Python package implementing the TOPSIS multi-criteria decision-making algorithm published on PyPI."
+    }
+  ],
+
+  "technical_skills": {
+    "languages": ["Python", "C++", "SQL", "JavaScript", "R"],
+    "ai_ml": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Embeddings",
+      "Retrieval Augmented Generation",
+      "Computer Vision"
+    ],
+    "frameworks_libraries": [
+      "LangChain",
+      "Flask",
+      "FastAPI",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "PyTorch",
+      "TensorFlow",
+      "OpenCV"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Jupyter",
+      "Google Colab",
+      "VS Code",
+      "PyCharm",
+      "OCR",
+      "API Development"
+    ],
+    "data_platforms": [
+      "PostgreSQL",
+      "Vector Databases (Pinecone)",
+      "Feature Engineering",
+      "Data Pipelines"
+    ]
+  },
+
+  "leadership": [
+    {
+      "role": "Core Member",
+      "organization": "Microsoft Learn Student Chapter",
+      "achievement": "Secured 5+ sponsorships for the flagship hackathon event."
+    }
+  ],
+
+  "interview_faqs": {
+
+    "introduce_yourself": "I am a Computer Engineering student at Thapar Institute of Engineering and Technology with a strong interest in AI and machine learning. I enjoy building intelligent systems that transform raw data into useful real-world applications. My experience includes building RAG-based AI assistants, recommendation systems, and computer vision models.",
+
+    "why_ai_ml": "I am fascinated by how intelligent systems can learn patterns from data and make decisions. AI allows us to solve complex problems that traditional programming cannot easily handle, and I enjoy exploring how machine learning models can create real-world impact.",
+
+    "strengths": [
+      "Strong analytical thinking and problem solving ability",
+      "Hands-on experience building real AI systems",
+      "Curiosity-driven learning and exploration of new technologies",
+      "Ability to work with messy real-world datasets"
+    ],
+
+    "weaknesses": [
+      "Sometimes I spend extra time optimizing models and improving performance.",
+      "I like exploring multiple approaches before finalizing a solution."
+    ],
+
+    "why_hire_me": "I combine strong machine learning fundamentals with hands-on experience building real AI systems such as RAG pipelines, recommendation systems, and deep learning models. I am curious, hardworking, and motivated to build systems that solve meaningful real-world problems.",
+
+    "career_goals": "My long-term goal is to build impactful AI systems and contribute to developing intelligent technologies that improve real-world decision making.",
+
+    "biggest_project": "One of my most interesting projects is CareGPT, a RAG-based AI assistant that processes prescriptions using OCR and retrieves relevant information using embeddings and vector databases.",
+
+    "teamwork_example": "While working as an intern at Predis AI, I collaborated with engineers working on ML-based analytics systems and contributed by building automated workflows and analyzing performance data.",
+
+    "problem_solving_example": "In the PlantPulse project, I built a CNN model to classify plant diseases. The challenge involved handling large image datasets and optimizing the model to achieve high accuracy.",
+
+    "future_learning": "I am currently interested in learning more about large language models, retrieval augmented generation systems, and building scalable AI-powered products.",
+
+    "internship_expectations": "During an internship I aim to learn from experienced engineers, work on real-world problems, and contribute to building useful systems while improving my technical and problem solving skills.",
+
+    "preferred_work_environment": "I enjoy collaborative environments where people share ideas, experiment with new technologies, and focus on building impactful products."
+  },
+
+"contact": {
+  "email": "pmalhotra1_be23@thapar.edu",
+  "phone": "9399728593",
+  "portfolio": "https://portfolio-purnika.netlify.app/",
+  "github": "https://github.com/Purnika19",
+  "linkedin": "https://linkedin.com/in/purnika19"
+}
+}

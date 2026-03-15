@@ -1,0 +1,39 @@
+### **Hero Section**
+**Name:** Purnika Malhotra
+**Title:** Computer Engineering Student | ML/AI Enthusiast
+**Bio:** Hello, I'm Purnika Malhotra. Building intelligent web solutions and exploring the frontiers of AI & Machine Learning. Passionate about transforming data into impactful applications.
+
+### **About Me**
+"My journey in tech is driven by a curiosity to understand how intelligent systems work and a passion for building them. I focus on Machine Learning, AI, and Python development, with a strong interest in building end-to-end intelligent systems. From data processing and model training to inference pipelines and real-world deployment, I enjoy working across the entire lifecycle of ML solutions. I have hands-on experience developing and deploying ML-driven applications using Python-based frameworks and cloud platforms, and I’m motivated by problems where intelligent models create measurable real-world impact."
+
+### **Education**
+**Institution:** Thapar Institute of Engineering & Technology, Patiala
+**Degree:** B.E. in Computer Engineering
+**Duration:** 2023 — 2027
+
+### **Technical Skills**
+*   **Languages:** C/C++, HTML/CSS, JavaScript, Python, SQL, R
+*   **Libraries & ML Frameworks:** Pandas, PyTorch, OpenCV, Numpy, TensorFlow, Keras, Scikit-learn, React, CNN, LangChain, LLM, RAG
+*   **Tools & Platforms:** Git/GitHub, VS Code, AWS, Docker, Flask, Node.js, Jupyter, Hugging Face, Render, Netlify
+*   **Core Concepts:** Data Structures, OOP, DBMS, Operating Systems, Deep Learning, Machine Learning, AI, Data Science, Agile Development, SCRUM, Computer Networks, System Design
+
+### **Featured Projects**
+1.  **CareGPT:** RAG-based medical assistant with OCR for prescription analysis using LangChain, OpenAI, and Pinecone.
+2.  **Schemely:** Intelligent Indian government schemes recommendation system based on user demographics and needs.
+3.  **PlantPulse:** CNN-based plant disease detection system trained on 70,000+ images (Achieved ~97% accuracy).
+4.  **TOPSIS Package:** Python package implementing the TOPSIS multi-criteria decision-making algorithm, published on PyPI.
+
+### **Experience**
+*   **Backlink Intern @ Predis AI** (March '25 — Present)
+    *   Working on backlink building, technical SEO, and off-page SEO.
+    *   Collaborating with the ML team on content analysis and automation using Python.
+*   **Open Source Contributor @ GirlScript Summer of Code** (May '24 — Aug '24)
+    *   Contributed to projects involving Machine Learning and Web Development.
+*   **Core Member @ Microsoft Learn Student Chapter** (Oct '24 — Present)
+    *   Leading technical initiatives and organizing workshops on AI/ML.
+
+### **Contact Information**
+*   **Email:** pmalhotra1_be23@thapar.edu
+*   **Phone:** +91 9399728593
+*   **GitHub:** https://github.com/Purnika19/
+*   **LinkedIn:** https://www.linkedin.com/in/purnika19/

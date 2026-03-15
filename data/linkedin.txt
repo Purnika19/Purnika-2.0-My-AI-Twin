@@ -1,0 +1,30 @@
+[This section is for any unstructured context from your LinkedIn profile. You can dump text here, and the system will intelligently parse it.]
+
+# LinkedIn Recommendations
+[Recommendation 1]
+Example: Purnika is an outstanding software engineer. She built multiple ML systems from scratch during her internship.
+
+# Articles / Posts
+[Post 1]
+Example: I just published a new article about using RAG with Pinecone and OpenAI! Here's what I learned...
+
+# Detailed Volunteering
+[Volunteering 1]
+Example: I spent 6 months teaching Python to underprivileged children through an NGO.
+
+[Note: To separate distinct pieces of information, simply leave a blank line between them, just like the examples above. Delete this placeholder text and paste your real LinkedIn information below.]
+
+
+[USER DIRECT LEARNING] paasta
+
+[USER DIRECT LEARNING] paasta
+
+[USER DIRECT LEARNING] my favourite food is paasta
+
+[USER DIRECT LEARNING] my favourite sport is badminton
+
+[USER DIRECT LEARNING] my favourite icecream flavour is cotton candy
+
+[USER DIRECT LEARNING] Patiala , Punjab
+
+[USER DIRECT LEARNING] I live in Patiala,Punjab
